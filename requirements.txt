@@ -1,0 +1,9 @@
+# Add manually for only required pip installation
+
+numpy 
+pandas 
+scikit-learn==1.6.1 
+matplotlib 
+streamlit 
+jupyterlab
+joblib
