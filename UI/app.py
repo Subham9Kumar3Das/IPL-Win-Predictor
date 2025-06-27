@@ -124,7 +124,7 @@ if submit_btn:
 
 st.markdown(
     "<div style='text-align: center; padding: 5px; color: grey;'>"
-    "&copy; 2025 <a href="https://github.com/Subham9Kumar3Das" style="text-decoration: none; color: inherit;">Subham Kumar Das</a>. All rights reserved."
+    "&copy; 2025 <a href="https://github.com/Subham9Kumar3Das" style="text-decoration: none; color: inherit;">Subham Kumar Das</a>. All rights reserved.
     "</div>",
     unsafe_allow_html=True
 )
